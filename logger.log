@@ -1,1 +1,5 @@
 2025-06-19 17:39:23.358 | INFO     | __main__:soma:6 - 6
+2025-06-19 18:21:00.828 | INFO     | __main__:soma:6 - 6
+2025-06-19 18:21:09.003 | INFO     | __main__:soma:6 - 6
+2025-06-19 18:21:11.061 | INFO     | __main__:soma:6 - 6
+2025-06-19 18:27:06.794 | CRITICAL | __main__:soma:11 - Valores incorretos

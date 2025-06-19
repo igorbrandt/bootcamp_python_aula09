@@ -3,7 +3,11 @@ from loguru import logger
 logger.add("logger.log")
 
 def soma(x,y):
-    logger.info(x+y)
-    return x + y
+    try:
+        soma = x + y
+        logger.info("Valores corretos")
+        return soma
+    except:
+        logger.critical("Valores incorretos")
 
-soma(2,4)
+soma(2,"sds")
